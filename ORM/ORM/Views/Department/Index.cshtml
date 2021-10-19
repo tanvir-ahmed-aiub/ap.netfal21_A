@@ -1,0 +1,24 @@
+﻿@model List<ORM.Models.Department>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+<a class="btn btn-primary" href="/Department/Create" >Create</a>
+<table class="table table-bordered">
+    <tr>
+        <th>Id</th>
+        <th>Name</th>
+        <th></th>
+        
+    </tr>
+    @foreach (var d in Model) { 
+    <tr>
+        <td>@d.Id</td>
+        <td>@d.Name</td>
+        <td><a href="/Department/Edit/@d.Id" class="btn btn-info">Edit</a>
+        <a href="/Department/Details/@d.Id" class="btn btn-success">Details</a>
+        <a href="/Department/delete/@d.Id" class="btn btn-danger">Delete</a></td>       
+    </tr>
+    }
+</table>
