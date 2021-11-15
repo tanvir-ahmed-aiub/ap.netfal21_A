@@ -1,0 +1,10 @@
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\TierApp\DAL\bin\Debug\DAL.dll.config
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\TierApp\DAL\bin\Debug\DAL.dll
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\TierApp\DAL\bin\Debug\DAL.pdb
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\TierApp\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\TierApp\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\TierApp\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\TierApp\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\TierApp\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\TierApp\DAL\obj\Debug\DAL.dll
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\TierApp\DAL\obj\Debug\DAL.pdb

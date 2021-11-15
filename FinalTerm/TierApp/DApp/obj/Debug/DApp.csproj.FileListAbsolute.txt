@@ -1,0 +1,17 @@
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\TierApp\DApp\bin\Debug\DApp.exe.config
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\TierApp\DApp\bin\Debug\DApp.exe
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\TierApp\DApp\bin\Debug\DApp.pdb
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\TierApp\DApp\bin\Debug\BLL.dll
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\TierApp\DApp\bin\Debug\AutoMapper.dll
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\TierApp\DApp\bin\Debug\DAL.dll
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\TierApp\DApp\bin\Debug\EntityFramework.dll
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\TierApp\DApp\bin\Debug\BLL.pdb
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\TierApp\DApp\bin\Debug\AutoMapper.xml
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\TierApp\DApp\bin\Debug\DAL.pdb
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\TierApp\DApp\bin\Debug\DAL.dll.config
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\TierApp\DApp\bin\Debug\EntityFramework.xml
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\TierApp\DApp\obj\Debug\DApp.csproj.AssemblyReference.cache
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\TierApp\DApp\obj\Debug\DApp.csproj.CoreCompileInputs.cache
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\TierApp\DApp\obj\Debug\DApp.csproj.CopyComplete
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\TierApp\DApp\obj\Debug\DApp.exe
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\TierApp\DApp\obj\Debug\DApp.pdb
