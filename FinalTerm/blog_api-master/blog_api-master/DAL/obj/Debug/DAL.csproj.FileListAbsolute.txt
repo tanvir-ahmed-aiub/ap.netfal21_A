@@ -1,0 +1,20 @@
+F:\Teaching\fall\DemoApp\DAL\bin\Debug\DAL.dll.config
+F:\Teaching\fall\DemoApp\DAL\bin\Debug\DAL.dll
+F:\Teaching\fall\DemoApp\DAL\bin\Debug\DAL.pdb
+F:\Teaching\fall\DemoApp\DAL\bin\Debug\EntityFramework.dll
+F:\Teaching\fall\DemoApp\DAL\bin\Debug\EntityFramework.xml
+F:\Teaching\fall\DemoApp\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+F:\Teaching\fall\DemoApp\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\Teaching\fall\DemoApp\DAL\obj\Debug\DAL.csproj.CopyComplete
+F:\Teaching\fall\DemoApp\DAL\obj\Debug\DAL.dll
+F:\Teaching\fall\DemoApp\DAL\obj\Debug\DAL.pdb
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\blog_api-master\blog_api-master\DAL\bin\Debug\DAL.dll.config
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\blog_api-master\blog_api-master\DAL\bin\Debug\DAL.dll
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\blog_api-master\blog_api-master\DAL\bin\Debug\DAL.pdb
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\blog_api-master\blog_api-master\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\blog_api-master\blog_api-master\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\blog_api-master\blog_api-master\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\blog_api-master\blog_api-master\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\blog_api-master\blog_api-master\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\blog_api-master\blog_api-master\DAL\obj\Debug\DAL.dll
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\blog_api-master\blog_api-master\DAL\obj\Debug\DAL.pdb

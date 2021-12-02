@@ -1,0 +1,75 @@
+<html>
+    <head>
+        <script src="js/angular.js"></script>
+        <script>
+            var app = angular.module('demo',[]);
+            app.controller('cntrl1',function($scope){
+                $scope.fName = "Tanvir";
+                $scope.lName = "Ahmed";
+            });
+
+            app.controller('ctrl2',function($scope){
+                $scope.fName = "Abdul";
+                $scope.lName = "Karim";
+            });
+
+            app.controller('studentcontroller',function($scope){
+                var ar =[
+                    {name:"Tanvir",id:123},
+                    {name:"sabbir",id:124},
+                    {name:"karim",id:125},
+                    {name:"rahim",id:126},
+                ];
+                $scope.students = ar;
+            });
+
+            app.controller('apires',function($scope,$http){
+               $http.get("https://localhost:44323/api/student/all").then(function(response){
+                    $scope.students = response.data;
+               }); 
+            });
+        </script>
+    </head>
+    <body ng-app="demo" >
+        <input type="text" ng-model="name">
+        <span>{{name}}</span>
+        <div ng-controller="cntrl1">
+            <p>{{fName}} {{lName}}</p>
+        </div>
+        <div ng-controller = "ctrl2"> 
+            <p>{{fName}} {{lName}}</p>
+        </div>
+        <div ng-controller = "ctrl2"> 
+            <p>{{fName}} {{lName}}</p>
+        </div>
+        <div ng-controller ="studentcontroller">
+            <table>
+                <tr>
+                    <th>Name</th>
+                    <th>Id</th>
+                </tr>
+                <tr ng-repeat="s in students">
+                    <td>{{s.name}}</td>
+                    <td>{{s.id}}</td>
+                </tr>
+            </table>
+        </div>
+        <div ng-controller="apires">
+            <table>
+                <tr>
+                    <th>Name</th>
+                    <th>Id</th>
+                    <th>Cgpa</th>
+                    <th>Dob</th>
+                </tr>
+                <tr ng-repeat="s in students">
+                    <td>{{s.Name}}</td>
+                    <td>{{s.Id}}</td>
+                    <td>{{s.Cgpa}}</td>
+                    <td>{{s.Dob}}</td>
+                </tr>
+                
+            </table>
+        </div>
+    </body>
+</html>

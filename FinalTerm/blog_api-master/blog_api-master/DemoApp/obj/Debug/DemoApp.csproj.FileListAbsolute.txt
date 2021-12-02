@@ -1,0 +1,113 @@
+F:\Teaching\fall\DemoApp\DemoApp\bin\DemoApp.dll.config
+F:\Teaching\fall\DemoApp\DemoApp\bin\DemoApp.dll
+F:\Teaching\fall\DemoApp\DemoApp\bin\DemoApp.pdb
+F:\Teaching\fall\DemoApp\DemoApp\bin\roslyn\csc.exe
+F:\Teaching\fall\DemoApp\DemoApp\bin\roslyn\csc.exe.config
+F:\Teaching\fall\DemoApp\DemoApp\bin\roslyn\csc.rsp
+F:\Teaching\fall\DemoApp\DemoApp\bin\roslyn\csi.exe
+F:\Teaching\fall\DemoApp\DemoApp\bin\roslyn\csi.rsp
+F:\Teaching\fall\DemoApp\DemoApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Teaching\fall\DemoApp\DemoApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Teaching\fall\DemoApp\DemoApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Teaching\fall\DemoApp\DemoApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Teaching\fall\DemoApp\DemoApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Teaching\fall\DemoApp\DemoApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Teaching\fall\DemoApp\DemoApp\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Teaching\fall\DemoApp\DemoApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Teaching\fall\DemoApp\DemoApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Teaching\fall\DemoApp\DemoApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Teaching\fall\DemoApp\DemoApp\bin\roslyn\System.AppContext.dll
+F:\Teaching\fall\DemoApp\DemoApp\bin\roslyn\System.Collections.Immutable.dll
+F:\Teaching\fall\DemoApp\DemoApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Teaching\fall\DemoApp\DemoApp\bin\roslyn\System.IO.FileSystem.dll
+F:\Teaching\fall\DemoApp\DemoApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Teaching\fall\DemoApp\DemoApp\bin\roslyn\System.Reflection.Metadata.dll
+F:\Teaching\fall\DemoApp\DemoApp\bin\roslyn\vbc.exe
+F:\Teaching\fall\DemoApp\DemoApp\bin\roslyn\vbc.exe.config
+F:\Teaching\fall\DemoApp\DemoApp\bin\roslyn\vbc.rsp
+F:\Teaching\fall\DemoApp\DemoApp\bin\roslyn\VBCSCompiler.exe
+F:\Teaching\fall\DemoApp\DemoApp\bin\roslyn\VBCSCompiler.exe.config
+F:\Teaching\fall\DemoApp\DemoApp\bin\BEL.dll
+F:\Teaching\fall\DemoApp\DemoApp\bin\BLL.dll
+F:\Teaching\fall\DemoApp\DemoApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Teaching\fall\DemoApp\DemoApp\bin\Newtonsoft.Json.dll
+F:\Teaching\fall\DemoApp\DemoApp\bin\System.Net.Http.Formatting.dll
+F:\Teaching\fall\DemoApp\DemoApp\bin\System.Web.Http.dll
+F:\Teaching\fall\DemoApp\DemoApp\bin\System.Web.Http.WebHost.dll
+F:\Teaching\fall\DemoApp\DemoApp\bin\AutoMapper.dll
+F:\Teaching\fall\DemoApp\DemoApp\bin\DAL.dll
+F:\Teaching\fall\DemoApp\DemoApp\bin\EntityFramework.dll
+F:\Teaching\fall\DemoApp\DemoApp\bin\BEL.pdb
+F:\Teaching\fall\DemoApp\DemoApp\bin\BLL.pdb
+F:\Teaching\fall\DemoApp\DemoApp\bin\Newtonsoft.Json.xml
+F:\Teaching\fall\DemoApp\DemoApp\bin\System.Net.Http.Formatting.xml
+F:\Teaching\fall\DemoApp\DemoApp\bin\System.Web.Http.xml
+F:\Teaching\fall\DemoApp\DemoApp\bin\System.Web.Http.WebHost.xml
+F:\Teaching\fall\DemoApp\DemoApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Teaching\fall\DemoApp\DemoApp\bin\AutoMapper.xml
+F:\Teaching\fall\DemoApp\DemoApp\bin\DAL.pdb
+F:\Teaching\fall\DemoApp\DemoApp\bin\DAL.dll.config
+F:\Teaching\fall\DemoApp\DemoApp\bin\EntityFramework.xml
+F:\Teaching\fall\DemoApp\DemoApp\obj\Debug\DemoApp.csprojAssemblyReference.cache
+F:\Teaching\fall\DemoApp\DemoApp\obj\Debug\DemoApp.csproj.CoreCompileInputs.cache
+F:\Teaching\fall\DemoApp\DemoApp\obj\Debug\DemoApp.csproj.CopyComplete
+F:\Teaching\fall\DemoApp\DemoApp\obj\Debug\DemoApp.dll
+F:\Teaching\fall\DemoApp\DemoApp\obj\Debug\DemoApp.pdb
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\blog_api-master\blog_api-master\DemoApp\bin\DemoApp.dll.config
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\blog_api-master\blog_api-master\DemoApp\bin\DemoApp.dll
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\blog_api-master\blog_api-master\DemoApp\bin\DemoApp.pdb
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\blog_api-master\blog_api-master\DemoApp\bin\roslyn\csc.exe
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\blog_api-master\blog_api-master\DemoApp\bin\roslyn\csc.exe.config
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\blog_api-master\blog_api-master\DemoApp\bin\roslyn\csc.rsp
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\blog_api-master\blog_api-master\DemoApp\bin\roslyn\csi.exe
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\blog_api-master\blog_api-master\DemoApp\bin\roslyn\csi.rsp
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\blog_api-master\blog_api-master\DemoApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\blog_api-master\blog_api-master\DemoApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\blog_api-master\blog_api-master\DemoApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\blog_api-master\blog_api-master\DemoApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\blog_api-master\blog_api-master\DemoApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\blog_api-master\blog_api-master\DemoApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\blog_api-master\blog_api-master\DemoApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\blog_api-master\blog_api-master\DemoApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\blog_api-master\blog_api-master\DemoApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\blog_api-master\blog_api-master\DemoApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\blog_api-master\blog_api-master\DemoApp\bin\roslyn\System.AppContext.dll
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\blog_api-master\blog_api-master\DemoApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\blog_api-master\blog_api-master\DemoApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\blog_api-master\blog_api-master\DemoApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\blog_api-master\blog_api-master\DemoApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\blog_api-master\blog_api-master\DemoApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\blog_api-master\blog_api-master\DemoApp\bin\roslyn\vbc.exe
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\blog_api-master\blog_api-master\DemoApp\bin\roslyn\vbc.exe.config
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\blog_api-master\blog_api-master\DemoApp\bin\roslyn\vbc.rsp
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\blog_api-master\blog_api-master\DemoApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\blog_api-master\blog_api-master\DemoApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\blog_api-master\blog_api-master\DemoApp\bin\BEL.dll
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\blog_api-master\blog_api-master\DemoApp\bin\BLL.dll
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\blog_api-master\blog_api-master\DemoApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\blog_api-master\blog_api-master\DemoApp\bin\Newtonsoft.Json.dll
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\blog_api-master\blog_api-master\DemoApp\bin\System.Net.Http.Formatting.dll
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\blog_api-master\blog_api-master\DemoApp\bin\System.Web.Http.dll
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\blog_api-master\blog_api-master\DemoApp\bin\System.Web.Http.WebHost.dll
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\blog_api-master\blog_api-master\DemoApp\bin\DAL.dll
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\blog_api-master\blog_api-master\DemoApp\bin\AutoMapper.dll
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\blog_api-master\blog_api-master\DemoApp\bin\EntityFramework.dll
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\blog_api-master\blog_api-master\DemoApp\bin\BEL.pdb
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\blog_api-master\blog_api-master\DemoApp\bin\BLL.pdb
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\blog_api-master\blog_api-master\DemoApp\bin\Newtonsoft.Json.xml
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\blog_api-master\blog_api-master\DemoApp\bin\System.Net.Http.Formatting.xml
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\blog_api-master\blog_api-master\DemoApp\bin\System.Web.Http.xml
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\blog_api-master\blog_api-master\DemoApp\bin\System.Web.Http.WebHost.xml
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\blog_api-master\blog_api-master\DemoApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\blog_api-master\blog_api-master\DemoApp\bin\DAL.pdb
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\blog_api-master\blog_api-master\DemoApp\bin\DAL.dll.config
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\blog_api-master\blog_api-master\DemoApp\bin\AutoMapper.xml
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\blog_api-master\blog_api-master\DemoApp\bin\EntityFramework.xml
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\blog_api-master\blog_api-master\DemoApp\obj\Debug\DemoApp.csproj.AssemblyReference.cache
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\blog_api-master\blog_api-master\DemoApp\obj\Debug\DemoApp.csproj.CoreCompileInputs.cache
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\blog_api-master\blog_api-master\DemoApp\obj\Debug\DemoApp.csproj.CopyComplete
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\blog_api-master\blog_api-master\DemoApp\obj\Debug\DemoApp.dll
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\blog_api-master\blog_api-master\DemoApp\obj\Debug\DemoApp.pdb
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\blog_api-master\blog_api-master\DemoApp\bin\System.Web.Cors.dll
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\blog_api-master\blog_api-master\DemoApp\bin\System.Web.Http.Cors.dll
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\blog_api-master\blog_api-master\DemoApp\bin\System.Web.Http.Cors.xml

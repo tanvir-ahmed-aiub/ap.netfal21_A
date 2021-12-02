@@ -12,3 +12,5 @@ C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\TierApp\BLL\obj\Debug\BLL.csproj.Cor
 C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\TierApp\BLL\obj\Debug\BLL.csproj.CopyComplete
 C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\TierApp\BLL\obj\Debug\BLL.dll
 C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\TierApp\BLL\obj\Debug\BLL.pdb
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\TierApp\BLL\bin\Debug\BEL.dll
+C:\Users\Teacher\Desktop\Ap.net A\FinalTerm\TierApp\BLL\bin\Debug\BEL.pdb

@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" >
+  <head>
+    <!--<base href="/" />-->
+    <meta charset="utf-8">
+    <script src="app/lib/angular.min.js"></script>
+    <script src="app/lib/angular.route.min.js"></script>
+    <script src="app/app.js"></script>
+
+    <title>NewsFeed</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="content/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="content/css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="content/css/animate.css">
+    <link rel="stylesheet" type="text/css" href="content/css/font.css">
+    <link rel="stylesheet" type="text/css" href="content/css/li-scroller.css">
+    <link rel="stylesheet" type="text/css" href="content/css/slick.css">
+    <link rel="stylesheet" type="text/css" href="content/css/jquery.fancybox.css">
+    <link rel="stylesheet" type="text/css" href="content/css/theme.css">
+    <link rel="stylesheet" type="text/css" href="content/css/style.css">
+
+  </head>
+  <body ng-app="myApp">
+    <div class="container">
+      <div ng-include="'views/inc/header.html'"></div>
+      <div ng-include="'views/inc/navarea.html'"></div>
+      <div ng-include="'views/inc/newssection.html'"></div>
+      <div ng-view> </div>
+      <div ng-include="'views/inc/footer.html'"></div>
+    </div>
+  </body>
+</html>
+
+<!--Template JS-->
+<script src="content/js/jquery.min.js"></script> 
+<script src="content/js/wow.min.js"></script> 
+<script src="content/js/bootstrap.min.js"></script> 
+<script src="content/js/slick.min.js"></script> 
+<script src="content/js/jquery.li-scroller.1.0.js"></script> 
+<script src="content/js/jquery.newsTicker.min.js"></script> 
+<script src="content/js/jquery.fancybox.pack.js"></script>
+<script src="content/js/custom.js"></script>
+
+<!-- Add Services here -->
+<script src="app/services/ajax.js"></script>
+
+
+<!-- Add Controllers here -->
+<script src="app/controllers/demo.js"></script>
+<script src="app/controllers/demo2.js"></script>
+<script src="app/controllers/products.js"></script>
+<script src="app/controllers/home.js"></script>
+<script src="app/controllers/post.js"></script>
